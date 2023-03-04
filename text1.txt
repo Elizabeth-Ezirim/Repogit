@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 08BC-B510
+
+ Directory of C:\Users\eliza\Desktop\GitTest
+
+04/03/2023  09:14    <DIR>          .
+04/03/2023  09:07    <DIR>          ..
+04/03/2023  09:14                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  341,359,034,368 bytes free
